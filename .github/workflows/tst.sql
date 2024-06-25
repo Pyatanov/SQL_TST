@@ -1,1 +1,1 @@
-select * from dual
+sele--ct * from dual
